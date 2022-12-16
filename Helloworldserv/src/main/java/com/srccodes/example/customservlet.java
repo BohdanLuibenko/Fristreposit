@@ -21,7 +21,7 @@ public class customservlet extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-//custom
+//custom requests
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
