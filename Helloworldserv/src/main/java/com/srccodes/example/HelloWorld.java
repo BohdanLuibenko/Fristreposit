@@ -7,10 +7,6 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
-
-/**
- * Servlet implementation class HelloWorld
- */
 public class HelloWorld extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
@@ -19,9 +15,7 @@ public class HelloWorld extends HttpServlet {
      */
     public HelloWorld() {
         super();
-        // TODO Auto-generated constructor stub
     }
-//helloworld
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
